@@ -50,7 +50,7 @@ plt.ylabel("Scores")
 plt.show()
 ```
 ## Output:
-![output](./111.jpg)
+![output](./images/111.jpg)
 
 
 
