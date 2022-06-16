@@ -16,6 +16,7 @@ To write a program to implement the simple linear regression model for predictin
 6. End the program.
 
 ## Program:
+~~~
 ```
 ## Program to implement the linear regression using gradient descent.
 ## Developed by: u.srinivas
@@ -49,6 +50,7 @@ plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.show()
 ```
+~~~
 ## Output:
 ![output](./images/111.jpg)
 
